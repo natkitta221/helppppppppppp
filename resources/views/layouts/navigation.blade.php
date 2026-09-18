@@ -178,7 +178,7 @@
 
                         <!-- Profile -->
                         <x-dropdown-link :href="route('profile.edit')">
-                            👤 {{ __('แก้ไขโปรไฟล์ & รูปประจำตัว') }}
+                            👤 {{ __('แก้ไขโปรไฟล์') }}
                         </x-dropdown-link>
 
                         <!-- Logout -->
