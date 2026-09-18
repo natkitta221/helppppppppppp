@@ -513,7 +513,7 @@
                                         <div class="min-w-0 flex-1">
 
                                             <span class="inline-block px-2 py-0.5 rounded bg-amber-50 text-amber-700 text-[10px] font-bold uppercase tracking-wider mb-1">
-                                                หนังสือของเขาที่คุณอยากได้
+                                                หนังสือของเขาที่คุณต้องการ
                                             </span>
 
                                             <h4 class="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2 leading-snug" title="{{ $request->requestedBook->title ?? '-' }}">
